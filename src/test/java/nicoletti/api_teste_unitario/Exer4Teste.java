@@ -6,7 +6,7 @@ import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.ValueSource;
 import static org.junit.jupiter.api.Assertions.*;
 
-class AtletaTest {
+class Exer4Teste {
     @ParameterizedTest
     @CsvSource({"5,pré-mirim", "7,pré-mirim", "8,mirim", "10,mirim", "11,infantil", "13,infantil",
         "14,infanto-juvenil", "17,infanto-juvenil", "18,juvenil", "20,juvenil", "21,adulto", "22,adulto"})
